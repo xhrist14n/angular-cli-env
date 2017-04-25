@@ -1,6 +1,8 @@
 # angular-cli-env
 ambiente de desarrollo de angular cli
 
+Este repo puede ser usado en terminal de linux ...
+
 # comando de creacion de ambiente de desarrollo #
 
 sh create-env.sh
