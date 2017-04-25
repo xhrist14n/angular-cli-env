@@ -13,10 +13,10 @@ source aenv/bin/activate
 
 sh install-env.sh
 
-# comando de desactivacion de ambiente de desarrollo # 
+# comando de desactivacion de ambiente de desarrollo #
 
 deactivate_node
 
+#Video de uso de este repo #
 
-
-
+[![ambiente de desarrollo de angular cli](./video.png)](https://www.youtube.com/watch?v=5K7k_3k54ys&t=31s "Angular Cli y su entorno de trabajo Ver Ahora!")
