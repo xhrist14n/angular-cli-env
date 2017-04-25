@@ -17,6 +17,6 @@ sh install-env.sh
 
 deactivate_node
 
-#Video de uso de este repo #
+# Video de uso de este repo #
 
-[![ambiente de desarrollo de angular cli](./video.png)](https://www.youtube.com/watch?v=5K7k_3k54ys&t=31s "Angular Cli y su entorno de trabajo Ver Ahora!")
+[![ ambiente de desarrollo de angular cli ](./video.png)](https://www.youtube.com/watch?v=5K7k_3k54ys "Angular Cli y su entorno de trabajo Ver Ahora!" )
